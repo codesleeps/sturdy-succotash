@@ -98,6 +98,35 @@ $(document).ready(function () {
 			$('#dateThree').text(dayThree);
 			$('#dateFour').text(dayFour);
 			$('#dateFive').text(dayFive);
-		});
-	}
-});
+
+
+      getUV(response.coord.lat, response.coord.lon);
+    }).fail(function (){
+      alert("Could not get data")
+    });
+
+
+    function getUV(lat, lon) {
+      $.ajax({
+         url: "https://api.openweathermap.org/data/2.5/onecall?lat=" + lat + "&lon=" + lon + "&exclude=minutely,hourly" + "&units=metric&appid=42aab93f919a0108de29c04395767465",
+         method: "GET",
+      }).then(function(response){
+        //code to determine UV index 10.07 🙄
+        let uvIndex = response.current.uvi;
+        $("#uv-index").text("UV Index:" + " " + uvIndex);
+        if (uvIndex >= 8) {
+          $("#uv-index").css("color", "red");
+        } else if (uvIndex > 4 && uvIndex < 8) {
+          $("#uv-index").css("color", "yellow");
+        } else {
+          $("#uv-index").css("color", "lime");
+        }
+        let cityHigh = response.daily[0].temp.max;
+        $("#high").text("Expected high (C): " + " " + cityHigh);
+
+      })
+    }
+
+
+
+}});
