@@ -6,22 +6,67 @@
 .hero {
 	background: linear-gradient(120deg, #3b7ceb,	#31faa6); 
 }
-.hero h1 {
-  color: yellow;
-}
-#app {
-  background-color: rgb(2, 2, 69);
+#city-input {
+  border: 3px solid lime;
 }
 #submit {
 	background: linear-gradient(#3b7ceb, #31faa6);
   color: white;
+  width: 100%;
   font-weight: 700;
+  margin: 20px 0;
+}
+.table-box {
+	background: linear-gradient(#3b7ceb, #31faa6);
+  border: 2px solid white;
+}
+#clr-btn {
+  border: 1px solid yellow;
 }
 #weather-data {
+  margin-top: 1px;
 	background: linear-gradient(#3b7ceb, #31faa6);
-
 }
+
+#info-section {
+  padding-top: 15px;
+}
+#app {
+  background-color: rgb(2, 2, 69);
+}
+.content h2 {
+	color: yellow;
+}
+.current-city-data {
+	min-height: 300px;
+}
+.current-city-data h4 {
+	color: white;
+}
+.current-city-data h2{
+	color: yellow;
+}
+
+.table-box {
+	background: linear-gradient(#3b7ceb, #31faa6 );
+	border: 1px solid white;
+}
+
+tr {
+	margin: 5px;
+}
+
+.title .column {
+  color: white;
+}
+
+
 .card {
 	background: linear-gradient(#3b7ceb, #31faa6);
+  margin: 5px;
+	min-height: 300px;
+	border-bottom: 3px solid #e9f108;
+	border-top: 3px solid #e9f108;
+	border-radius: 5px;
 
 }
