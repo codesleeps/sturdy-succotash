@@ -1,7 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 
+.hero {
+	background: linear-gradient(120deg, #3b7ceb,	#31faa6); 
+}
+.hero h1 {
+  color: yellow;
+}
+#app {
+  background-color: rgb(2, 2, 69);
+}
+#submit {
+	background: linear-gradient(#3b7ceb, #31faa6);
+  color: white;
+  font-weight: 700;
+}
+#weather-data {
+	background: linear-gradient(#3b7ceb, #31faa6);
 
+}
+.card {
+	background: linear-gradient(#3b7ceb, #31faa6);
 
-
-h1 {
-  color: red;
 }

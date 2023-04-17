@@ -1,27 +1,126 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- bulma  -->
-  <link rel="stylesheet"href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css"/>
-  <!-- css  -->
-  <link rel="stylesheet" href="assets/css/styles.css">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<!-- bulma  -->
+		<link
+			rel="stylesheet"
+			href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css" />
+		<!-- css  -->
+		<link rel="stylesheet" href="assets/css/styles.css" />
 
-  <title>Global Weather App</title>
-</head>
-<body>
+		<title>Global Weather App</title>
+	</head>
+	<body>
+		<!-- hero  -->
+		<section class="hero">
+			<div class="hero-body">
+				<div class="container">
+					<h1 class="title">Weather Dashboard</h1>
+				</div>
+			</div>
+		</section>
 
+		<section id="app">
+			<div class="container">
+				<div class="columns">
+					<div class="column is-one-quarter content">
+						<form>
+							<input
+								type="text"
+								id="city-input"
+								class="input"
+								placeholder="Enter name of a city" />
+							<button id="submit" class="button" type="submit">
+								Get Weather Info
+							</button>
+						</form>
+						<div class="box table-box">
+							<div class="table-container">
+								<table id="cityList" class="table is-bordered">
+									<tr></tr>
+									<!-- Table data generated in javascript -->
+								</table>
+								<button id="clr-btn" class="button is-success">CLEAR</button>
+							</div>
+						</div>
+					</div>
 
-<h1>weather app</h1>
+					<div class="column">
+						<div id="weather-data" class="columns box content">
+							<div class="column current-city-data">
+								<h2 id="city-name"></h2>
+								<h4 id="city-cond"></h4>
+								<h4 id="temp"></h4>
+								<h4 id="high"></h4>
+								<h4 id="humidity"></h4>
+								<h4 id="wind-speed"></h4>
+								<h4 id="uv-index"></h4>
+							</div>
+							<div class="column">
+								<div id="icon"></div>
+							</div>
+						</div>
+            <!-- 5 days forecast cards  -->
+            <div class="container">
+              <div class="content">
+                <h2>5 Day Forecast:</h2>
+                <div class="columns">
+                  <div class="column card">
+                    <div id="dayOne" class="card-content">
+                      <h3 id="dateOne" class="has-text-white"></h3>
+                      <div id="iconOne"></div>
+                      <h4 id="tempOne" class="has-text-white"></h4>
+                      <h4 id="humOne" class="has-text-white"></h4>
+                    </div>
+                  </div>
+                  <div class="column card">
+                    <div id="dayOne" class="card-content">
+                      <h3 id="dateOne" class="has-text-white"></h3>
+                      <div id="iconOne"></div>
+                      <h4 id="tempOne" class="has-text-white"></h4>
+                      <h4 id="humOne" class="has-text-white"></h4>
+                    </div>
+                  </div>
+                  <div class="column card">
+                    <div id="dayOne" class="card-content">
+                      <h3 id="dateOne" class="has-text-white"></h3>
+                      <div id="iconOne"></div>
+                      <h4 id="tempOne" class="has-text-white"></h4>
+                      <h4 id="humOne" class="has-text-white"></h4>
+                    </div>
+                  </div>
+                  <div class="column card">
+                    <div id="dayOne" class="card-content">
+                      <h3 id="dateOne" class="has-text-white"></h3>
+                      <div id="iconOne"></div>
+                      <h4 id="tempOne" class="has-text-white"></h4>
+                      <h4 id="humOne" class="has-text-white"></h4>
+                    </div>
+                  </div>
+                  <div class="column card">
+                    <div id="dayOne" class="card-content">
+                      <h3 id="dateOne" class="has-text-white"></h3>
+                      <div id="iconOne"></div>
+                      <h4 id="tempOne" class="has-text-white"></h4>
+                      <h4 id="humOne" class="has-text-white"></h4>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+					</div>
+				</div>
+			</div>
+		</section>
 
-
-
-
-
-
-  
-  <script src="assets/js/app.js"></script>
-</body>
+		<!-- Moment.js -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js"></script>
+		<!-- jQuery -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<!-- javascript  -->
+		<script src="assets/js/app.js"></script>
+	</body>
 </html>
