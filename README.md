@@ -29,9 +29,15 @@
  
  ### Screenshots
  
-[bulma](https://user-images.githubusercontent.com/125808990/232556531-f7599c96-c789-452e-a971-b08301708740.png)
+[Bulma](https://user-images.githubusercontent.com/125808990/232556531-f7599c96-c789-452e-a971-b08301708740.png)
 
-[hero](https://user-images.githubusercontent.com/125808990/232556257-7ecf3659-6df8-4997-b84c-493c6102d97d.png)
+[Hero](https://user-images.githubusercontent.com/125808990/232556257-7ecf3659-6df8-4997-b84c-493c6102d97d.png)
+
+[Hero Background](https://user-images.githubusercontent.com/125808990/232557314-c34580f7-82a4-42a8-b695-4d80b36bad0d.png)
+
+[Gradients](https://user-images.githubusercontent.com/125808990/232557427-732ddac9-0fd0-4dba-b08d-47e12cbfa78a.png)
+
+
 
 
 
