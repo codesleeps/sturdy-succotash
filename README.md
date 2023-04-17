@@ -13,6 +13,7 @@
  
 ### Purpose Utilize:
 
+ - Bulma CSS Framework
  - API
  - localStorage 
  - preventDefault 
