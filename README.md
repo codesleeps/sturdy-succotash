@@ -29,7 +29,8 @@
  
  ### Screenshots
  
- 
+[bulma](https://user-images.githubusercontent.com/125808990/232556531-f7599c96-c789-452e-a971-b08301708740.png)
+
 [hero](https://user-images.githubusercontent.com/125808990/232556257-7ecf3659-6df8-4997-b84c-493c6102d97d.png)
 
 
