@@ -52,7 +52,7 @@
 
 
 
-## Microsoft Learn ✅
+## Microsoft Learn 🎓
 
 [achievements Trophy](https://user-images.githubusercontent.com/125808990/226473105-96a90167-8ca6-4897-8746-ab92653da446.png)
 
