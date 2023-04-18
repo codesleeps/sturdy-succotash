@@ -28,7 +28,7 @@
  - objects ✅
  
  
- ### Screenshots
+ ### Screenshots 📸
  
 [Bulma](https://user-images.githubusercontent.com/125808990/232556531-f7599c96-c789-452e-a971-b08301708740.png)
 
