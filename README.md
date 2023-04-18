@@ -5,6 +5,7 @@
 ### Operation 🎯
 
  - Simply enter the city you require in the input field to get current weather data for that city  🌆
+ 
      - City & Date
      - Current Temperature
      - Expected High
