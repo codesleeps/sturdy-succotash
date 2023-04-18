@@ -15,7 +15,7 @@
      - UV Index
  
  
-## [App](https://codesleeps.github.io/sturdy-succotash/) ☀️
+ [App](https://codesleeps.github.io/sturdy-succotash/) ☀️
  
  
 ### Purpose Utilize: 🦾
