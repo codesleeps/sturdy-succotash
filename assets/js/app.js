@@ -125,7 +125,7 @@ $(document).ready(function () {
 				} else if (uvIndex > 4 && uvIndex < 8) {
 					$('#uv-index').css('color', 'yellow');
 				} else {
-					$('#uv-index').css('color', 'lime');
+					$('#uv-index').css('color', 'blue');
 				}
 				let cityHigh = response.daily[0].temp.max;
 				$('#high').text('Expected high (C): ' + ' ' + cityHigh);
