@@ -53,6 +53,7 @@
 
 [UV Index](https://user-images.githubusercontent.com/125808990/232639157-28a52fe1-29a0-4663-a9d5-b95ec44ceb70.png)
 
+[Code Time](https://user-images.githubusercontent.com/125808990/232639382-e3f91f87-ec0c-4418-b8a4-6a593c75832a.png)
 
 
 
