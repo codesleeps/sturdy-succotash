@@ -68,5 +68,9 @@ tr {
 	border-bottom: 3px solid #e9f108;
 	border-top: 3px solid #e9f108;
 	border-radius: 5px;
+}
 
+#extra-app {
+	min-height: 200px;
+	background-color: rgb(2, 2, 69);
 }
