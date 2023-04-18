@@ -74,6 +74,7 @@
 
 ## Additional resources
 
+- [Bulma CSS](https://bulma.io/)
 - [Coding Addict](https://johnsmilga.com)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [Java Point](https://www.javatpoint.com/jquery-example)
