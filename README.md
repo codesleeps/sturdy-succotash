@@ -4,7 +4,8 @@
 
 ### Operation 🎯
 
- - Simply enter the city you require in the input field to get current weather data for that city  🌆
+ - Click the 'App' link below 
+ - Enter the city you require in the input field to get the current weather data for that city  🌆
  
      - City & Date
      - Current Temperature
