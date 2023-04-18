@@ -37,7 +37,13 @@
 
 [Gradients](https://user-images.githubusercontent.com/125808990/232557427-732ddac9-0fd0-4dba-b08d-47e12cbfa78a.png)
 
+[input Field](https://user-images.githubusercontent.com/125808990/232636265-b45c4ac2-4489-498f-8e24-244fd0505301.png)
 
+[API Data](https://user-images.githubusercontent.com/125808990/232636306-e95c68d5-55f1-44cb-ae76-def616099a2b.png)
+
+[Five-Day forecast](https://user-images.githubusercontent.com/125808990/232636358-09eb3c3a-c35a-40d9-bceb-7af1b318bcb3.png)
+
+[UV Index](https://user-images.githubusercontent.com/125808990/232636430-b2168f57-90b1-40ac-abd3-570e4bec19a1.png)
 
 
 
