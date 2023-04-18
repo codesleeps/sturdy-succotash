@@ -51,8 +51,7 @@
 
 [Five-Day forecast](https://user-images.githubusercontent.com/125808990/232636358-09eb3c3a-c35a-40d9-bceb-7af1b318bcb3.png)
 
-[UV Index](https://user-images.githubusercontent.com/125808990/232636430-b2168f57-90b1-40ac-abd3-570e4bec19a1.png)
-
+[UV Index](https://user-images.githubusercontent.com/125808990/232639157-28a52fe1-29a0-4663-a9d5-b95ec44ceb70.png)
 
 
 
