@@ -1,20 +1,19 @@
 # sturdy-succotash
 
-## Global Weather App
+## Global Weather App 🌍
 
+### Operation 🎯
 
-### Operation
-
- - Simply enter the city you require in the input field to get current weather data
+ - Simply enter the city you require in the input field to get current weather data for that city  🌆
  
  
- [App](https://codesleeps.github.io/sturdy-succotash/)
+ [App](https://codesleeps.github.io/sturdy-succotash/) ☀️
  
  
-### Purpose Utilize:
+### Purpose Utilize: 🦾
 
- - Bulma CSS Framework
- - API
+ - Bulma CSS Framework 👀
+ - API ✅
  - localStorage 
  - preventDefault 
  - dot notation 
