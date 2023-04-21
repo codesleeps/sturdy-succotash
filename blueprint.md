@@ -1,12 +1,6 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#sturdy-succotash)
+# sturdy-succotash
 
-# ➤ sturdy-succotash
-
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#global-weather-app-)
-
-## ➤ Global Weather App 🌍
+## Global Weather App 🌍
 
 ### Operation 🎯
 
@@ -66,10 +60,7 @@
 
 
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#microsoft-learn-)
-
-## ➤ Microsoft Learn 🎓
+## Microsoft Learn 🎓
 
 [achievements Trophy](https://user-images.githubusercontent.com/125808990/226473105-96a90167-8ca6-4897-8746-ab92653da446.png)
 
@@ -80,10 +71,7 @@
 [achievements Module3](https://user-images.githubusercontent.com/125808990/226473163-eee6dc4c-8abb-4a83-b166-3127f2d67f41.png)
 
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#vs-code---extensions)
-
-## ➤ VS Code - Extensions
+## VS Code - Extensions
 
 - [x] Quokka.js 🤖
 - [x] ESLint 🔥
@@ -93,10 +81,7 @@
 
 
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
-
-## ➤ Additional resources
+## Additional resources
 
 - [Bulma CSS](https://bulma.io/)
 - [Coding Addict](https://johnsmilga.com)
